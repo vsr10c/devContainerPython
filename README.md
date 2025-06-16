@@ -18,7 +18,7 @@ This devcontainer setup streamlines the development process for AI agents by pro
 **Details:**
 
 *   The `.devcontainer/devcontainer.json` file configures the Devcontainer.
-*   Python dependencies (e.g., the Google ADK library) are typically specified in a `requirements.txt` or `pyproject.toml` file.  Make sure to install dependencies with `pip install -r requirements.txt` or use `poetry install`.
+*   Python dependencies (e.g., the Google ADK library) are typically specified in a `pyproject.toml` file.  Make sure to install dependencies with use `poetry install`.
 
 **Contributing:**
 
