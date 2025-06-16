@@ -1,7 +1,7 @@
 [project]
 name = "devcontainerpython"
 version = "0.1.0"
-description = "Add your description here"
+description = "Google ADK Dev Container Python"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
